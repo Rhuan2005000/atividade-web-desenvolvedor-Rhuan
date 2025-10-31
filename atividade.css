@@ -1,0 +1,51 @@
+header{
+border: 5px solid black;
+top: 0px;
+margin: 0px;
+background-color: rgb(8, 244, 244);
+width: 1600px;
+height: 60px;
+position:fixed;
+
+}
+menu{
+border: 5px solid black;
+top: 60px;
+margin: 0px;
+background-color: rgb(2, 196, 245);
+width: 1600px;
+height: 60px;
+position:fixed;
+
+}
+article{
+border: 5px solid black;
+top: 120px;
+margin:0px;
+background-color: rgb(48, 57, 190);
+width: 1000px;
+height: 600px;
+position:fixed;
+
+}
+
+aside{
+border: 5px solid black;
+top: 120px;
+left: 1000px;
+background-color: rgb(53, 233, 155);
+width: 550px;
+height: 600px;
+position:fixed;
+
+}
+footer{
+border: 5px solid black;
+top: 720px;
+margin: 0px;
+background-color: rgb(95, 166, 188);
+width: 1600px;
+height: 90px;
+position:fixed;
+
+}
